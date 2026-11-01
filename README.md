@@ -18,7 +18,7 @@ I bridge the gap between creative storytelling and complex systems engineering. 
   - Released over **140 driver suites** across Control4, URC, and Crestron.
   - Strategically acquired by **Control4 (NASDAQ: CTRL)** in September 2014.
 - **Co-Owner @ Beyond the Invisible** *(2003 – 2011)*
-  - Built the UK's largest Control4 dealership and pioneered European home automation integrations.
+  - Built at one point the UK's largest Control4 dealership and pioneered European home automation integrations.
   - Awarded *Best Home Cinema under £20,000 (CEDIA)* & *Best South UK Control4 Dealer*.
 
 ---
